@@ -1,0 +1,16 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.col a img{
+    width: 25%;
+}
+
+a {
+    text-decoration: none;
+}
